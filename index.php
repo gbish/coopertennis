@@ -1,9 +1,9 @@
-<?php include("includes/header.html"); ?>
+<?php include("includes/header.php"); ?>
 			<div id="main">
 				<h1>Cooper Tennis</h1>
 
 				<div class="promo">
-					<a href="/downloads/summer_holiday_courses_2014.pdf">Summer Holiday Activities 2014</a>
+					<a href="/downloads/may_half_term_2015.pdf">May Half Term Holiday Activities 2015</a>
 				</div>
 
 				<p>
@@ -13,4 +13,4 @@
 					All coaches are LTA qualified, CRB checked and range from Level  1 to  Level  5.  Most coaches have come through the Cooper Tennis coaching programme and have progressed onto their LTA qualifications.
 				</p>
 		</div>
-		<?php include("includes/footer.html"); ?>
+		<?php include("includes/footer.php"); ?>

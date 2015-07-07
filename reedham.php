@@ -1,4 +1,4 @@
-<?php include("includes/header.html"); ?>
+<?php include("includes/header.php"); ?>
 			<div id="main">
 				<h1>Reedham Park Tennis Club</h1>
 				
@@ -8,4 +8,4 @@
 				<p><a href="http://www.reedhamparktennis.co.uk/">Reedham Park Tennis Club</a></p>
 				
 		</div>
-		<?php include("includes/footer.html"); ?>
+		<?php include("includes/footer.php"); ?>

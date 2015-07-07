@@ -1,4 +1,4 @@
-<?php include("includes/header.html"); ?>
+<?php include("includes/header.php"); ?>
 			<div id="contact">
 				<h1>Contact Us</h1>
 				
@@ -38,4 +38,4 @@
 				</dl>
 			</div>
 		</div>
-		<?php include("includes/footer.html"); ?>
+		<?php include("includes/footer.php"); ?>

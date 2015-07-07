@@ -1,4 +1,4 @@
-<?php include("includes/header.html"); ?>
+<?php include("includes/header.php"); ?>
 			<div id="main">				
 				<h1>Coaching Scheme's</h1>
 				
@@ -34,4 +34,4 @@
 				</div>
 			</div>
 		</div>
-		<?php include("includes/footer.html"); ?>
+		<?php include("includes/footer.php"); ?>

@@ -33,13 +33,13 @@
 		<div class="wrapper">
 			<div id="menu">
 				<ul>
-					<li><a href="index.html">Home</a></li>
-					<li><a href="purley.html">Purley Sports Club</a></li>
-					<li><a href="reedham.html">Reedham Park TC</a></li>
-					<li><a href="cardio_tennis.html">Cardio Tennis</a></li>
-					<li><a href="tournaments.html">Tournaments</a></li>
-					<li><a href="holiday_courses.html">Holiday Courses</a></li>
-					<li><a href="contact.html">Contact Us</a></li>	
-				</ul>				
+					<li><a href="index.php">Home</a></li>
+					<li><a href="purley.php">Purley Sports Club</a></li>
+					<li><a href="reedham.php">Reedham Park TC</a></li>
+					<li><a href="cardio_tennis.php">Cardio Tennis</a></li>
+					<li><a href="tournaments.php">Tournaments</a></li>
+					<li><a href="holiday_courses.php">Holiday Courses</a></li>
+					<li><a href="contact.php">Contact Us</a></li>	
+				</ul>
 			</div>
 			<div id="photos"></div>

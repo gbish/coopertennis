@@ -1,8 +1,15 @@
-<?php include("includes/header.html"); ?>
+<?php include("includes/header.php"); ?>
 			<div id="main">
 				<h1>Holiday Courses</h1>
 
 				<div class="coaching">
+					<h2>2015</h2>
+
+					<ul class="downloads">
+						<li><a href="/downloads/may_half_term_2015.pdf">May Half Term Holiday Activities 2015</a></li>
+						<li><a href="/downloads/cooper_tennis_leaflet_easter_2015.pdf">Easter Holiday Activities 2015</a></li>
+					</ul>
+
 					<h2>2014</h2>
 
 					<ul class="downloads">
@@ -39,4 +46,4 @@
 				</div>
 			</div>
 		</div>
-		<?php include("includes/footer.html"); ?>
+		<?php include("includes/footer.php"); ?>
