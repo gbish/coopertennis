@@ -6,6 +6,8 @@
 					<h2>2015</h2>
 
 					<ul class="downloads">
+						<li><a href="/downloads/Summer_hols_2015_Reedham.pdf">Summer Holiday Activities at Reedham 2015</a></li>
+						<li><a href="/downloads/Summer_hols_2015_The_Hayes.pdf">Summer Holiday Activities at The Hayes 2015</a></li>
 						<li><a href="/downloads/may_half_term_2015.pdf">May Half Term Holiday Activities 2015</a></li>
 						<li><a href="/downloads/cooper_tennis_leaflet_easter_2015.pdf">Easter Holiday Activities 2015</a></li>
 					</ul>
