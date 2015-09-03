@@ -3,11 +3,11 @@
 				<h1>Cooper Tennis</h1>
 
 				<div class="promo">
-					<a href="/downloads/Summer_hols_2015_Reedham.pdf">Summer Holiday Activities at Reedham 2015</a>
+					<a href="/downloads/RP_Coaching_letter_Aut_2015.pdf">Reedham Park Coaching Letter Autumn 2015</a>
 				</div>
 
 				<div class="promo">
-					<a href="/downloads/Summer_hols_2015_The_Hayes.pdf">Summer Holiday Activities at The Hayes 2015</a>
+					<a href="/downloads/RP_reply_slip_Aut_15.pdf">Reedham Park Coaching Reply Slip Autumn 2015</a>
 				</div>
 
 				<p>

@@ -6,6 +6,8 @@
 					<h2>2015</h2>
 
 					<ul class="downloads">
+						<li><a href="/downloads/RP_Coaching_letter_Aut_2015.pdf">Reedham Park Coaching Letter Autumn 2015</a></li>
+						<li><a href="/downloads/RP_reply_slip_Aut_15.pdf">Reedham Park Coaching Reply Slip Autumn 2015</a></li>
 						<li><a href="/downloads/Summer_hols_2015_Reedham.pdf">Summer Holiday Activities at Reedham 2015</a></li>
 						<li><a href="/downloads/Summer_hols_2015_The_Hayes.pdf">Summer Holiday Activities at The Hayes 2015</a></li>
 						<li><a href="/downloads/may_half_term_2015.pdf">May Half Term Holiday Activities 2015</a></li>
