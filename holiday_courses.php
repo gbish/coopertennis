@@ -12,6 +12,7 @@
 					<h2>2015</h2>
 
 					<ul class="downloads">
+						<li><a href="/downloads/XMAS_Hols_2015.pdf">Christmas Holidays 2015</a></li>
 						<li><a href="/downloads/TENNIS_COOPER_october2.pdf">October Half Term 2015</a></li>
 						<li><a href="/downloads/RP_Coaching_letter_Aut_2015.pdf">Reedham Park Coaching Letter Autumn 2015</a></li>
 						<li><a href="/downloads/RP_reply_slip_Aut_15.pdf">Reedham Park Coaching Reply Slip Autumn 2015</a></li>
