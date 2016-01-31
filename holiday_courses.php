@@ -3,6 +3,12 @@
 				<h1>Holiday Courses</h1>
 
 				<div class="coaching">
+					<h2>2016</h2>
+
+					<ul class="downloads">
+						<li><a href="/downloads/RP_FEB_2016.pdf">February Half Term 2016</a></li>
+					</ul>
+
 					<h2>2015</h2>
 
 					<ul class="downloads">

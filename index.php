@@ -3,7 +3,7 @@
 				<h1>Cooper Tennis</h1>
 
 				<div class="promo">
-					<a href="/downloads/TENNIS_COOPER_october2.pdf">October Half Term 2015</a>
+					<a href="/downloads/RP_FEB_2016.pdf">February Half Term 2016</a>
 				</div>
 
 				<p>
