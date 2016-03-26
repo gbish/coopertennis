@@ -8,17 +8,9 @@
 			<p><a href="http://www.reedhamparktennis.co.uk/">Reedham Park Tennis Club</a></p>
 
 			<div>
-				<h2>Winter 2015</h2>
+				<h2>Spring 2016</h2>
 				<p>
-					<a href="/downloads/XMAS_Hols_2015.pdf">Christmas Holidays 2015</a>
-				</p>
-			</div>
-
-			<div>
-				<h2>Autumn 2015</h2>
-				<p>
-					<a href="/downloads/RP_Coaching_letter_Aut_2015.pdf">Reedham Park Coaching Letter Autumn 2015</a><br>
-					<a href="/downloads/RP_reply_slip_Aut_15.pdf">Reedham Park Coaching Reply Slip Autumn 2015</a>
+					<a href="/downloads/RP_Easter_2016.pdf">Easter Activities - Reedham Park 2016</a>
 				</p>
 			</div>
 		</div>
