@@ -10,7 +10,7 @@
 			<div>
 				<h2>Spring 2016</h2>
 				<p>
-					<a href="/downloads/RP_Easter_2016.pdf">Easter Activities - Reedham Park 2016</a>
+					<a href="/downloads/may_half_term_2016.pdf.pdf">May Half Term - Reedham Park 2016</a>
 				</p>
 			</div>
 		</div>
