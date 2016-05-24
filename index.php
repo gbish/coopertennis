@@ -4,7 +4,7 @@
 
 				<div class="promo">
 					<p>
-						<a href="/downloads/may_half_term_2016.pdf.pdf">May Half Term - Reedham Park 2016</a>
+						<a href="/downloads/may_half_term_2016.pdf">May Half Term - Reedham Park 2016</a>
 					</p>
 				</div>
 

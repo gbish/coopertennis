@@ -6,7 +6,7 @@
 					<h2>2016</h2>
 
 					<ul class="downloads">
-						<li><a href="/downloads/may_half_term_2016.pdf.pdf">May Half Term - Reedham Park 2016</a></li>
+						<li><a href="/downloads/may_half_term_2016.pdf">May Half Term - Reedham Park 2016</a></li>
 						<li><a href="/downloads/RP_Easter_2016.pdf">Easter Activities - Reedham Park 2016</a></li>
 						<li><a href="/downloads/Riddlesdown_Easter_2016.pdf">Easter Activities - Riddlesdown 2016</a></li>
 						<li><a href="/downloads/RP_FEB_2016.pdf">February Half Term 2016</a></li>
