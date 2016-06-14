@@ -2,15 +2,15 @@
 		<div id="main">
 			<h1>Reedham Park Tennis Club</h1>
 
-			<p>Peter Cooper is the Head Coach at Reedham Park Tennis Club.
-				Please see the <a href="/downloads/RP_Coaching_letter_Aut_2015.pdf">Autumn Term 2015 coaching letter</a>.</p>
-
-			<p><a href="http://www.reedhamparktennis.co.uk/">Reedham Park Tennis Club</a></p>
+			<p>Peter Cooper is the Head Coach at <a href="http://www.reedhamparktennis.co.uk/">Reedham Park Tennis Club</a></p>
 
 			<div>
-				<h2>Spring 2016</h2>
+				<h2>Summer 2016</h2>
 				<p>
-					<a href="/downloads/may_half_term_2016.pdf">May Half Term - Reedham Park 2016</a>
+					<a href="/downloads/tennis_cooper_tots_tennis.pdf">TOTS TENNIS</a>
+				</p>
+				<p>
+					<a href="/downloads/tennis_cooper_mums_tennis.pdf">MUMS TENNIS</a>
 				</p>
 			</div>
 		</div>
