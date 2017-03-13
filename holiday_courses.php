@@ -3,6 +3,14 @@
 				<h1>Holiday Courses</h1>
 
 				<div class="coaching">
+					<h2>2017</h2>
+
+					<ul class="downloads">
+						<li><a href="/downloads/tennis_cooper_easter_2017.pdf">Easter Activities - Reedham Park 2017</a></li>
+					</ul>
+				</div>
+
+				<div class="coaching">
 					<h2>2016</h2>
 
 					<ul class="downloads">

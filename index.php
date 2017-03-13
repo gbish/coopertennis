@@ -4,7 +4,7 @@
 
 				<div class="promo">
 					<p>
-						<a href="/downloads/tennis_cooper_summer_olympic_for_email.pdf">Summer Holidays 2016 At Reedham Park</a>
+						<a href="/downloads/tennis_cooper_easter_2017.pdf">Easter Activities - Reedham Park 2017</a>
 					</p>
 				</div>
 
